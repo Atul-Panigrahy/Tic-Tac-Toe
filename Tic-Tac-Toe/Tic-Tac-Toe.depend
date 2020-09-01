@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598979081 source:c:\users\ocac\desktop\new folder\tic-tac-toe\main.cpp
+	<iostream>
+	<string>
+
